@@ -28,3 +28,11 @@ July 27, 2020
 
 树莓派（九）：多线程基础+控制多台电机
 https://blog.csdn.net/weixin_44524040/article/details/90450315
+
+
+
+22/03/2021 00:18
+Successfully control on tyre1 through raspberry pi
+
+22/03/2021 22:09
+Successfully control on tyre2 through raspberry pi
